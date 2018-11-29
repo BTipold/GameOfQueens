@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/stuartrepo/v15/Browse.VC.opendb
+/.vs/ProjectSettings.json
+/.vs/stuartrepo/v15/Browse.VC.db
+/.vs/stuartrepo/v15/.suo
+/.vs/stuartrepo/v15/ipch/AutoPCH/78c44b299916df4b/GAMEOFQUEENSMAIN.ipch
+Projects/Windows/VS/GameOfsync
+Projects/Windows/VS/GameOfLife/.vs/GameOfLife/v15/Browse.VC.opendb
+.vs/
+Projects/
+GameOfLife/

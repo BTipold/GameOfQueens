@@ -1,0 +1,120 @@
+Ban Righ has tater tots for breaky.#500
+Didn't get a concussion hitting a beer can off your head.#1500
+Get off academic probation.#2500
+Got 51% on your midterm.#500
+No ticket on HOCO.#500
+OSAP comes in.#2000
+Parents come and take you on a yuuuuge Costco run.#1000
+Prof. McLeod cancels an 830.#1500
+Prof. McLeod extended the due date for the assignment.#1000
+Sneak into Ban Righ and get a free meal.#500
+Someone found your bike a townie stole.#1000
+Still have your keys and wallet after a blackout night at stages.#2000
+The TAs bless you with 100% for your assignment.#500
+There's free pizza on campus.#1000
+Trudeau legalizes marijuana.#1500
+You get to pet a dog.#2500
+You made something that wasn't KD for dinner.#1000
+Your housemates actually cleaned up after themselves.#2000
+Your year got the tam.#500
+Rode the St. Paddy's boat down Aberdeen.#1500
+Crushed 40 beers in 24 hours.#1000
+Made it onto Canadian Party Life.#1500
+#ENDQUEENSCARDS
+Arts#1250
+Commerce#6250
+Computer Science#5000
+Con Ed#3750
+Engineering#5625
+General Sciences#1875
+Life Science#3125
+Nursing#4375
+PheKin#2500
+#ENDFACULTYCARDS
+Brandt#600
+Ghetto house (complete trash hole)#550
+Ghetto House (actually nice tho...)#550
+Live with parents#50
+North of Princess#450
+Residence Don#50
+Stauffer Library#100
+Victoria Hall#400
+West Campus#300
+#ENDHOUSINGCARDS
+choice	235	330
+event	357	308
+spin	429	311
+queens	494	321
+osap	561	357
+event	587	418
+queens	610	486
+spin	616	550
+queens	623	615
+degree1	620	694
+placeholder	235	330
+queens	192	431
+event	177	476
+spin	165	525
+osap	152	573
+event	134	620
+queens	125	669
+queens	114	716
+spin	105	768
+osap	103	812
+event	117	857
+queens	143	903
+spin	193	913
+osap	241	911
+queens	292	900
+event	341	885
+spin	393	867
+event	441	851
+osap	490	829
+queens	532	807
+degree3	579	795
+osap	625	768
+housing	669	776
+event	712	774
+event	760	775
+osap	807	775
+tuition	852	778
+queens	901	773
+rent	950	776
+event	958	730
+event	948	680
+queens	941	628
+osap	939	580
+queens	940	529
+event	940	479
+queens	949	433
+spin	952	383
+tuition	962	335
+osap	978	285
+event	1025	271
+event	1069	260
+spin	1116	250
+queens	1163	248
+rent	1207	245
+osap	1253	247
+tuition	1295	254
+degree1	1347	267
+queens	1389	272
+spin	1442	284
+queens	1469	327
+housing	1461	371
+queens	1444	418
+spin	1440	463
+queens	1433	513
+rent	1438	557
+osap	1445	603
+event	1460	646
+event	1476	692
+tuition	1494	736
+queens	1518	776
+event	1544	815
+osap	1583	795
+queens	1621	769
+event	1661	746
+rent	1712	733
+queens	1758	725
+finish	729	729
